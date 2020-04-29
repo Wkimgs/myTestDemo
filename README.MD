@@ -1,2 +1,3 @@
 ## a node project
-npm install
+- npm installl
+- node server.js
